@@ -88,7 +88,7 @@ If you use this code or data, please cite:
 ```bibtex
 @article{credit_sovereignty_2026,
   title  = {Credit Sovereignty in DeFi Lending: Evidence from the KelpDAO Exploit},
-  author = {<Author Name>},
+  author = {YIHAN GUO},
   year   = {2026},
   note   = {Working paper}
 }

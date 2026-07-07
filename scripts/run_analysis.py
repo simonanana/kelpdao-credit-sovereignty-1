@@ -202,3 +202,4 @@ if __name__ == "__main__":
                         help="Force re-download from the DefiLlama API instead of using data/raw/ snapshots.")
     args = parser.parse_args()
     main(use_cache=not args.no_cache)
+

@@ -27,7 +27,7 @@ occasionally backfills or corrects TVL). The CSV snapshots committed in
 ```
 raw/tvl_aave-v3.csv
 raw/tvl_spark.csv
-raw/tvl_morpho.csv            (or tvl_morpho-blue.csv)
+raw/tvl_morpho.csv            
 raw/token_flows_aave-v3.csv
 raw/token_flows_spark.csv
 raw/apy_aa70268e.csv          Aave V3 USDC Ethereum

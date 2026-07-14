@@ -1,0 +1,5 @@
+Pool,N_pre,PreMean,PreSD,N_post,PostSD,PostMax
+Aave V3 USDC Ethereum,1167,4.86,3.444,9,3.691,12.6
+Aave V3 DAI Ethereum,1167,4.53,3.618,9,8.197,29.9
+Spark USDS Ethereum,421,4.53,0.716,9,0.053,3.75
+Spark Savings USDC ETH,112,3.91,0.12,9,0.053,3.75
